@@ -60,8 +60,8 @@ Results-driven Robotics & Automation Engineering student with hands-on expertise
 
 ### 🌐 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Dharunika%20V-blue?logo=linkedin)](https://linkedin.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Dharunika%20V-orange?logo=leetcode)](https://leetcode.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Dharunika%20V-blue?logo=linkedin)](https://www.linkedin.com/in/dharunika-v-ab0319297)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Dharunika%20V-orange?logo=leetcode)](https://leetcode.com/u/dharunika16/)
 📧 dharunika016@gmail.com
 
 🗣️ English (Proficient) · Tamil (Native) · German (Intermediate)
